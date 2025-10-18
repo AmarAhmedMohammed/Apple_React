@@ -8,7 +8,6 @@ import newIpad from '../../images/icons/new-ipad-logo.png';
 
 import Fourth from './Fourth/Fourth'
 import Rating from './Rating/Rating'
-import Youtube from '../Youtube/Youtube'
 
 
 
@@ -203,12 +202,6 @@ class Main extends Component{
 						</div>
 
 					</div>
-				</section>
-
-				<section className="youtubeVideosWrapper">
-					
-					<Youtube />
-
 				</section>
 
 
